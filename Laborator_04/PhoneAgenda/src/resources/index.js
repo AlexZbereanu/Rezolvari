@@ -1,5 +1,6 @@
 function addPerson()
 {
+
     var id = document.getElementById("id");
     var nume = document.getElementById("nume");
     var prenume = document.getElementById("prenume");
@@ -46,16 +47,21 @@ function showPerson()
             var element = document.getElementById("persoane");
             var objects = this.responseText;
             data = JSON.parse(objects);
-            data.forEach(function(elements){
-                element.innerHTML += "<div>Id:" + elements.id + "</div>";
-                element.innerHTML += "<div>LastName:" + elements.lastName + "</div>";
-                element.innerHTML += "<div>FirstName:" + elements.firstName + "</div>";
-                element.innerHTML += "<div>Telephone:" + elements.telephoneNumber + "</div><br />";
+            data.forEach(elements=>{
+                element.innerHTML += "<div id='id1'>Id:" + elements.id + "</div>";
+                element.innerHTML += "<div id='id2'>LastName:" + elements.lastName + "</div>";
+                element.innerHTML += "<div id='id3'>FirstName:" + elements.firstName + "</div>";
+                element.innerHTML += "<div id='id4'>Telephone:" + elements.telephoneNumber + "</div><br />";
             });
         }
     };
 
     xhttp.open("GET", url, true);
     xhttp.send();
+
+    let element = document.getElementById("persoane");
+    while (element.firstChild) {
+        element.removeChild(element.firstChild);
+    }
 
 }
