@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <title>Adaugare</title>
+    <meta charset="UTF-8">
+
+</head>
+<body>
+<h1>Adaugare cheltuiala:</h1>
+<form action="adauga" method="POST">
+    <label for="id">Id:</label>
+    <input type="number" id="id" name="id"><br><br>
+    <label for="pret">Pret:</label>
+    <input type="number" id="pret" name="pret"><br><br>
+    <label for="tip">Tip</label>
+    <select id="tip"  name="tip">
+        <option value="mancare">Mancare</option>
+        <option value="haine">Haine</option>
+        <option value="servicii">Servicii</option>
+        <option value="distractii">Distractii</option>
+        <option value="altele">Altele</option>
+    </select> <br> <br>
+    <label for="descriere">Descriere</label>
+    <textarea id="descriere" name="descriere"></textarea><br><br>
+    <button type="submit">Adauga cheltuiala</button><br><br><br>
+</form>
+<a href="/">Inapoi la pagina principala</a>
+</body>
+</html>

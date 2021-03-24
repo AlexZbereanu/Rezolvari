@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <title>Afisare</title>
+    <meta charset="UTF-8">
+    <script src="static/script.js"></script>
+</head>
+<body>
+<p>{{message}}</p>
+<h3>Stergere cheltuiala:</h3>
+<form action="sterge" method="POST">
+    <label for="id">ID:</label>
+    <input type="number" id="id" name="id">
+    <button type="submit">Stergere</button>
+</form>
+
+<h3>Updateaza o cheltuiala:</h3>
+<label for="updateId">ID:</label>
+<input type="number" id="updateId"> <br><br>
+<label for="updatePret">Price:</label>
+<input type="number" id="updatePret"> <br> <br>
+<label for="updateTip">Categorie</label>
+<select id="updateTip">
+    <option value="mancare">Mancare</option>
+    <option value="haine">Haine</option>
+    <option value="servicii">Servicii</option>
+    <option value="distractii">Distractii</option>
+    <option value="altele">Altele</option>
+</select> <br> <br>
+<label for="updateDescriere">Descriere</label>
+<textarea id="updateDescriere"></textarea>
+
+<br><br>
+<button type="submit" onclick="updateazaCheltuiala()">Update</button><br><p id="messageupdate"></p><br><br>
+
+<h3>Cheltuielile inregistrate:</h3>
+{% if cheltuieli %}
+<table border=1>
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>Pret</th>
+        <th>Tip</th>
+        <th>Descriere</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for cheltuiala in cheltuieli %}
+    <tr>
+        <td>{{cheltuiala.Id}}</td>
+        <td>{{cheltuiala.Pret}}</td>
+        <td>{{cheltuiala.Tip}}</td>
+        <td>{{cheltuiala.Descriere}}</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+{% else %}
+<p>Nimic de afisat!</p>
+{% endif %}
+
+<h3>Suma totala este {{total}}</h3>
+<a href="/">Inapoi la pagina principala</a>
+</body>
+</html>
