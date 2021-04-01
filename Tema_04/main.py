@@ -6,11 +6,11 @@ from data.data import Data
 from services.Cheltuieli import Cheltuieli
 
 service = Cheltuieli()
-cheltuiala1 = Data("1", "13", "haine", "dfw")
+cheltuiala1 = Data("1", "13", "haine", "pantofi")
 service.add_cheltuiala(cheltuiala1)
-cheltuiala1 = Data("2", "13", "haine", "dfw")
+cheltuiala1 = Data("2", "12", "haine", "sapca")
 service.add_cheltuiala(cheltuiala1)
-cheltuiala1 = Data("3", "13", "haine", "dfw")
+cheltuiala1 = Data("3", "11", "haine", "blug")
 service.add_cheltuiala(cheltuiala1)
 
 app = Flask(__name__)
