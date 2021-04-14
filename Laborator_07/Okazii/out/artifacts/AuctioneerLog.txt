@@ -1,0 +1,97 @@
+[13-04-2021 21:38:36]Fisier creat cu succes!
+
+
+[13-04-2021 21:38:36]Licitatie noua!
+[13-04-2021 21:38:36]AuctioneerMicroservice se executa pe portul: 1500
+[13-04-2021 21:38:36]Se asteapta oferte de la bidderi...
+[13-04-2021 21:38:36] [Andrei:andrei@yahoo.com:9876543210] >>> licitez:7069
+[13-04-2021 21:38:36] [Alex:alex@yahoo.com:0123456789] >>> licitez:1161
+[13-04-2021 21:38:36] [Iulian:iulian@yahoo.com:0918273645] >>> licitez:7807
+[13-04-2021 21:38:36] [Alex:alex@yahoo.com:0123456789] >>> licitez:5296
+[13-04-2021 21:38:36] [Andrei:andrei@yahoo.com:9876543210] >>> licitez:8836
+[13-04-2021 21:38:36] [Vio:andrei@yahoo.com:9876543210] >>> licitez:6946
+[13-04-2021 21:38:36] [Razvan:alex@yahoo.com:0123456789] >>> licitez:1213
+[13-04-2021 21:38:36] [Cosmin:alex@yahoo.com:0123456789] >>> licitez:3245
+[13-04-2021 21:38:36] [Alin:andrei@yahoo.com:9876543210] >>> licitez:8968
+[13-04-2021 21:38:37] [Simona:alex@yahoo.com:0123456789] >>> licitez:1743
+[13-04-2021 21:38:37] [Benzema:alex@yahoo.com:0123456789] >>> licitez:4023
+[13-04-2021 21:38:37] [Mike:andrei@yahoo.com:9876543210] >>> licitez:1180
+[13-04-2021 21:38:37] [Frederic:iulian@yahoo.com:0918273645] >>> licitez:5683
+[13-04-2021 21:38:37] [Ronaldo:andrei@yahoo.com:9876543210] >>> licitez:7151
+[13-04-2021 21:38:37] [Mihaita:alex@yahoo.com:0123456789] >>> licitez:4160
+[13-04-2021 21:38:37] [Nicolae:alex@yahoo.com:0123456789] >>> licitez:6213
+[13-04-2021 21:38:37] [Nicusor:andrei@yahoo.com:9876543210] >>> licitez:4698
+[13-04-2021 21:38:37] [Obama:andrei@yahoo.com:9876543210] >>> licitez:8610
+[13-04-2021 21:38:37] [Basescu:alex@yahoo.com:0123456789] >>> licitez:8570
+[13-04-2021 21:38:37] [Florin:andrei@yahoo.com:9876543210] >>> licitez:8830
+[13-04-2021 21:38:42]Licitatia s-a incheiat! Se trimit ofertele spre procesare...
+[13-04-2021 21:38:42]Am trimis mesajul: [13-04-2021 21:38:36] [Andrei:andrei@yahoo.com:9876543210] >>> licitez:7069
+[13-04-2021 21:38:42]Am trimis mesajul: [13-04-2021 21:38:36] [Alex:alex@yahoo.com:0123456789] >>> licitez:1161
+[13-04-2021 21:38:42]Am trimis mesajul: [13-04-2021 21:38:36] [Iulian:iulian@yahoo.com:0918273645] >>> licitez:7807
+[13-04-2021 21:38:42]Am trimis mesajul: [13-04-2021 21:38:36] [Alex:alex@yahoo.com:0123456789] >>> licitez:5296
+[13-04-2021 21:38:42]Am trimis mesajul: [13-04-2021 21:38:36] [Andrei:andrei@yahoo.com:9876543210] >>> licitez:8836
+[13-04-2021 21:38:42]Am trimis mesajul: [13-04-2021 21:38:36] [Vio:andrei@yahoo.com:9876543210] >>> licitez:6946
+[13-04-2021 21:38:42]Am trimis mesajul: [13-04-2021 21:38:36] [Razvan:alex@yahoo.com:0123456789] >>> licitez:1213
+[13-04-2021 21:38:42]Am trimis mesajul: [13-04-2021 21:38:36] [Cosmin:alex@yahoo.com:0123456789] >>> licitez:3245
+[13-04-2021 21:38:42]Am trimis mesajul: [13-04-2021 21:38:36] [Alin:andrei@yahoo.com:9876543210] >>> licitez:8968
+[13-04-2021 21:38:42]Am trimis mesajul: [13-04-2021 21:38:37] [Simona:alex@yahoo.com:0123456789] >>> licitez:1743
+[13-04-2021 21:38:42]Am trimis mesajul: [13-04-2021 21:38:37] [Benzema:alex@yahoo.com:0123456789] >>> licitez:4023
+[13-04-2021 21:38:42]Am trimis mesajul: [13-04-2021 21:38:37] [Mike:andrei@yahoo.com:9876543210] >>> licitez:1180
+[13-04-2021 21:38:42]Am trimis mesajul: [13-04-2021 21:38:37] [Frederic:iulian@yahoo.com:0918273645] >>> licitez:5683
+[13-04-2021 21:38:42]Am trimis mesajul: [13-04-2021 21:38:37] [Ronaldo:andrei@yahoo.com:9876543210] >>> licitez:7151
+[13-04-2021 21:38:42]Am trimis mesajul: [13-04-2021 21:38:37] [Mihaita:alex@yahoo.com:0123456789] >>> licitez:4160
+[13-04-2021 21:38:42]Am trimis mesajul: [13-04-2021 21:38:37] [Nicolae:alex@yahoo.com:0123456789] >>> licitez:6213
+[13-04-2021 21:38:42]Am trimis mesajul: [13-04-2021 21:38:37] [Nicusor:andrei@yahoo.com:9876543210] >>> licitez:4698
+[13-04-2021 21:38:42]Am trimis mesajul: [13-04-2021 21:38:37] [Obama:andrei@yahoo.com:9876543210] >>> licitez:8610
+[13-04-2021 21:38:42]Am trimis mesajul: [13-04-2021 21:38:37] [Basescu:alex@yahoo.com:0123456789] >>> licitez:8570
+[13-04-2021 21:38:42]Am trimis mesajul: [13-04-2021 21:38:37] [Florin:andrei@yahoo.com:9876543210] >>> licitez:8830
+[13-04-2021 21:38:42]Am trimis toate ofertele catre MessageProcessor.
+[13-04-2021 21:38:42]Am primit rezultatul licitatiei de la BiddingProcessor: [Alin:andrei@yahoo.com:9876543210] a castigat cu pretul: 8968
+
+
+[13-04-2021 21:44:18]Licitatie noua!
+[13-04-2021 21:44:18]AuctioneerMicroservice se executa pe portul: 1500
+[13-04-2021 21:44:18]Se asteapta oferte de la bidderi...
+[13-04-2021 21:44:18] [Alex:alex@yahoo.com:0123456789] >>> licitez:6370
+[13-04-2021 21:44:18] [Alex:alex@yahoo.com:0123456789] >>> licitez:5898
+[13-04-2021 21:44:18] [Iulian:iulian@yahoo.com:0918273645] >>> licitez:5906
+[13-04-2021 21:44:18] [Andrei:andrei@yahoo.com:9876543210] >>> licitez:3565
+[13-04-2021 21:44:18] [Razvan:alex@yahoo.com:0123456789] >>> licitez:1804
+[13-04-2021 21:44:18] [Vio:andrei@yahoo.com:9876543210] >>> licitez:8012
+[13-04-2021 21:44:19] [Alin:andrei@yahoo.com:9876543210] >>> licitez:5084
+[13-04-2021 21:44:19] [Mike:andrei@yahoo.com:9876543210] >>> licitez:1147
+[13-04-2021 21:44:19] [Andrei:andrei@yahoo.com:9876543210] >>> licitez:9202
+[13-04-2021 21:44:19] [Cosmin:alex@yahoo.com:0123456789] >>> licitez:2368
+[13-04-2021 21:44:19] [Benzema:alex@yahoo.com:0123456789] >>> licitez:5735
+[13-04-2021 21:44:19] [Mihaita:alex@yahoo.com:0123456789] >>> licitez:8819
+[13-04-2021 21:44:19] [Ronaldo:andrei@yahoo.com:9876543210] >>> licitez:3461
+[13-04-2021 21:44:19] [Simona:alex@yahoo.com:0123456789] >>> licitez:2769
+[13-04-2021 21:44:19] [Frederic:iulian@yahoo.com:0918273645] >>> licitez:8929
+[13-04-2021 21:44:19] [Nicusor:andrei@yahoo.com:9876543210] >>> licitez:5570
+[13-04-2021 21:44:19] [Nicolae:alex@yahoo.com:0123456789] >>> licitez:8286
+[13-04-2021 21:44:19] [Basescu:alex@yahoo.com:0123456789] >>> licitez:9392
+[13-04-2021 21:44:19] [Obama:andrei@yahoo.com:9876543210] >>> licitez:5338
+[13-04-2021 21:44:19] [Florin:andrei@yahoo.com:9876543210] >>> licitez:4973
+[13-04-2021 21:44:24]Licitatia s-a incheiat! Se trimit ofertele spre procesare...
+[13-04-2021 21:44:24]Am trimis mesajul: [13-04-2021 21:44:18] [Alex:alex@yahoo.com:0123456789] >>> licitez:6370
+[13-04-2021 21:44:24]Am trimis mesajul: [13-04-2021 21:44:18] [Alex:alex@yahoo.com:0123456789] >>> licitez:5898
+[13-04-2021 21:44:24]Am trimis mesajul: [13-04-2021 21:44:18] [Iulian:iulian@yahoo.com:0918273645] >>> licitez:5906
+[13-04-2021 21:44:24]Am trimis mesajul: [13-04-2021 21:44:18] [Andrei:andrei@yahoo.com:9876543210] >>> licitez:3565
+[13-04-2021 21:44:24]Am trimis mesajul: [13-04-2021 21:44:18] [Razvan:alex@yahoo.com:0123456789] >>> licitez:1804
+[13-04-2021 21:44:24]Am trimis mesajul: [13-04-2021 21:44:18] [Vio:andrei@yahoo.com:9876543210] >>> licitez:8012
+[13-04-2021 21:44:24]Am trimis mesajul: [13-04-2021 21:44:19] [Alin:andrei@yahoo.com:9876543210] >>> licitez:5084
+[13-04-2021 21:44:24]Am trimis mesajul: [13-04-2021 21:44:19] [Mike:andrei@yahoo.com:9876543210] >>> licitez:1147
+[13-04-2021 21:44:24]Am trimis mesajul: [13-04-2021 21:44:19] [Andrei:andrei@yahoo.com:9876543210] >>> licitez:9202
+[13-04-2021 21:44:24]Am trimis mesajul: [13-04-2021 21:44:19] [Cosmin:alex@yahoo.com:0123456789] >>> licitez:2368
+[13-04-2021 21:44:24]Am trimis mesajul: [13-04-2021 21:44:19] [Benzema:alex@yahoo.com:0123456789] >>> licitez:5735
+[13-04-2021 21:44:24]Am trimis mesajul: [13-04-2021 21:44:19] [Mihaita:alex@yahoo.com:0123456789] >>> licitez:8819
+[13-04-2021 21:44:24]Am trimis mesajul: [13-04-2021 21:44:19] [Ronaldo:andrei@yahoo.com:9876543210] >>> licitez:3461
+[13-04-2021 21:44:24]Am trimis mesajul: [13-04-2021 21:44:19] [Simona:alex@yahoo.com:0123456789] >>> licitez:2769
+[13-04-2021 21:44:24]Am trimis mesajul: [13-04-2021 21:44:19] [Frederic:iulian@yahoo.com:0918273645] >>> licitez:8929
+[13-04-2021 21:44:24]Am trimis mesajul: [13-04-2021 21:44:19] [Nicusor:andrei@yahoo.com:9876543210] >>> licitez:5570
+[13-04-2021 21:44:24]Am trimis mesajul: [13-04-2021 21:44:19] [Nicolae:alex@yahoo.com:0123456789] >>> licitez:8286
+[13-04-2021 21:44:24]Am trimis mesajul: [13-04-2021 21:44:19] [Basescu:alex@yahoo.com:0123456789] >>> licitez:9392
+[13-04-2021 21:44:24]Am trimis mesajul: [13-04-2021 21:44:19] [Obama:andrei@yahoo.com:9876543210] >>> licitez:5338
+[13-04-2021 21:44:24]Am trimis mesajul: [13-04-2021 21:44:19] [Florin:andrei@yahoo.com:9876543210] >>> licitez:4973
+[13-04-2021 21:44:24]Am trimis toate ofertele catre MessageProcessor.
+[13-04-2021 21:44:25]Am primit rezultatul licitatiei de la BiddingProcessor: [Basescu:alex@yahoo.com:0123456789] a castigat cu pretul: 9392

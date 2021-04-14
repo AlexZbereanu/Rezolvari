@@ -20,11 +20,11 @@ class LibraryPrinterMicroservice {
     @Autowired
     private lateinit var libraryPrinter: LibraryPrinter
 
-    @Autowired
-    private lateinit var rabbitMqController: RabbitMqController
-
-    @Autowired
-    private lateinit var amqpTemplate: AmqpTemplate
+//    @Autowired
+//    private lateinit var rabbitMqController: RabbitMqController
+//
+//    @Autowired
+//    private lateinit var amqpTemplate: AmqpTemplate
 
     @RequestMapping("/print", method = [RequestMethod.GET])
     @ResponseBody
@@ -67,24 +67,24 @@ class LibraryPrinterMicroservice {
         return "Not a valid field"
     }
 
-    @RabbitListener(queues = ["\${sqliteexample.rabbitmq.queue}"])
-    fun fetchMessage(msg: String){
-        val processedMsg = (msg.split(",").map { it.toInt().toChar() }).joinToString(separator="")
-        try {
-            val (f1, f2, f3) = processedMsg.split(" ")
-            val result: String? = when(f1) {
-                "print" -> f2
-                "find" -> f3
-                else -> null
-            }
-            if (result != null) sendMessage(result)
-        } catch (e: Exception) {
-            println(e)
-        }
-    }
-
-    fun sendMessage(message: String){
-
-    }
+//    @RabbitListener(queues = ["\${sqliteexample.rabbitmq.queue}"])
+//    fun fetchMessage(msg: String){
+//        val processedMsg = (msg.split(",").map { it.toInt().toChar() }).joinToString(separator="")
+//        try {
+//            val (f1, f2, f3) = processedMsg.split(" ")
+//            val result: String? = when(f1) {
+//                "print" -> f2
+//                "find" -> f3
+//                else -> null
+//            }
+//            if (result != null) sendMessage(result)
+//        } catch (e: Exception) {
+//            println(e)
+//        }
+//    }
+//
+//    fun sendMessage(message: String){
+//
+//    }
 
 }

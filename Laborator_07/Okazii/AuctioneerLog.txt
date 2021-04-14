@@ -1,0 +1,8 @@
+[13-04-2021 21:37:50]Fisier creat cu succes!
+
+
+[13-04-2021 21:37:50]Licitatie noua!
+[13-04-2021 21:37:50]AuctioneerMicroservice se executa pe portul: 1500
+[13-04-2021 21:37:50]Se asteapta oferte de la bidderi...
+[13-04-2021 21:37:55]Licitatia s-a incheiat! Se trimit ofertele spre procesare...
+[13-04-2021 21:37:57]Nu ma pot conecta la MessageProcessor!
